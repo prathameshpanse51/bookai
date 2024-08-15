@@ -38,9 +38,9 @@ export default function Books() {
               />
               <h2 className="text-3xl">Science Fiction</h2>
               <p className="text-lg text-gray-600 dark:text-gray-300">
-                "As Dr. Elara stepped through the shimmering portal, she knew
-                there was no turning back. The fate of two universes now rested
-                in her hands..."
+                &quot;As Dr. Elara stepped through the shimmering portal, she
+                knew there was no turning back. The fate of two universes now
+                rested in her hands...&quot;
               </p>
               <Button
                 className={cn(
@@ -69,9 +69,9 @@ export default function Books() {
               />
               <h2 className="text-3xl">Mystery</h2>
               <p className="text-lg text-gray-600 dark:text-gray-300">
-                "The old lighthouse stood silent, its beacon long extinguished.
-                But on foggy nights, some swore they could still see its ghostly
-                light..."
+                &quot;The old lighthouse stood silent, its beacon long
+                extinguished. But on foggy nights, some swore they could still
+                see its ghostly light...&quot;
               </p>
               <Button
                 className={cn(
@@ -100,9 +100,9 @@ export default function Books() {
               />
               <h2 className="text-3xl">Fantasy</h2>
               <p className="text-lg text-gray-600 dark:text-gray-300">
-                "The ancient prophecy spoke of a child born with starlight in
-                their eyes. As the comet blazed overhead, the kingdom held its
-                breath..."
+                &quot;The ancient prophecy spoke of a child born with starlight
+                in their eyes. As the comet blazed overhead, the kingdom held
+                its breath...&quot;
               </p>
               <Button
                 className={cn(

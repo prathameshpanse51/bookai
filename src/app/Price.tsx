@@ -41,7 +41,7 @@ export default function Price() {
         </h1>
         <p className="text-lg md:text-xl">
           Our API pricing is based on the model used and the number of tokens
-          processed. Here's a breakdown of the costs:
+          processed. Here&apos;s a breakdown of the costs:
         </p>
 
         <Table className="text-lg mt-4">
